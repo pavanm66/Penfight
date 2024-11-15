@@ -766,7 +766,7 @@ MonoBehaviour:
   projectedPointOnPen: {x: 0, y: 0}
   centreofmass: {x: 0, y: 0, z: 0}
   rb: {fileID: 315114028}
-  penBG: {fileID: 5248730}
+  penBG: {fileID: 911522840}
   maxDragMagnitude: 1000
   maxDrag: 1
   forcemultiplier: 25
@@ -774,7 +774,7 @@ MonoBehaviour:
   penBorder: {fileID: 1691935725}
   timer: 15
   pen3d: {fileID: 919132147843567743}
-  penCollider: {fileID: 0}
+  penCollider: {fileID: 315114025}
 --- !u!1 &316658098
 GameObject:
   m_ObjectHideFlags: 0
@@ -1637,7 +1637,7 @@ MonoBehaviour:
   penBorder: {fileID: 1742916478}
   timer: 15
   pen3d: {fileID: 401588993}
-  penCollider: {fileID: 0}
+  penCollider: {fileID: 675221203}
 --- !u!61 &675221203
 BoxCollider2D:
   m_ObjectHideFlags: 0
