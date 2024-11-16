@@ -1,9 +1,42 @@
 fileFormatVersion: 2
 guid: 4100b9ff6a019ae4a990037fecffad40
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5609171822453287617
+    second: Opponent won_00021_0
+  - first:
+      213: -7513829617188921672
+    second: Opponent won_00021_1
+  - first:
+      213: 8772858859252120847
+    second: Opponent won_00021_2
+  - first:
+      213: 3474890799294874683
+    second: Opponent won_00021_3
+  - first:
+      213: -975296844208984251
+    second: Opponent won_00021_4
+  - first:
+      213: 2364288898668982112
+    second: Opponent won_00021_5
+  - first:
+      213: 5584588233372408863
+    second: Opponent won_00021_6
+  - first:
+      213: -9173464680463315993
+    second: Opponent won_00021_7
+  - first:
+      213: 2090094685870299559
+    second: Opponent won_00021_8
+  - first:
+      213: -7552400435090174573
+    second: Opponent won_00021_9
+  - first:
+      213: -4801473077887312009
+    second: Opponent won_00021_10
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -23,7 +56,6 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -41,7 +73,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -55,14 +87,10 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -114,7 +142,238 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Opponent won_00021_0
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 958
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f359a8632f73822b0800000000000000
+      internalID: -5609171822453287617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00021_1
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 933
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be15ace5c389b790800000000000000
+      internalID: -7513829617188921672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00021_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 951
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d7c52e6a47fb970800000000000000
+      internalID: 8772858859252120847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00021_3
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 952
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b348e3d65ca493030800000000000000
+      internalID: 3474890799294874683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00021_4
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 931
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f2d5200bc0772f0800000000000000
+      internalID: -975296844208984251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00021_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 907
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f609f0a34afc020800000000000000
+      internalID: 2364288898668982112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00021_6
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 914
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c1dfae861708d40800000000000000
+      internalID: 5584588233372408863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00021_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 890
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb4469e97e41b080800000000000000
+      internalID: -9173464680463315993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00021_8
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 847
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a91b320b02810d10800000000000000
+      internalID: 2090094685870299559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00021_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 745
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dc1f091db703790800000000000000
+      internalID: -7552400435090174573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00021_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 763
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fdce9ccadbd5db0800000000000000
+      internalID: -4801473077887312009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -1,9 +1,252 @@
 fileFormatVersion: 2
 guid: 41d38c01e1accc241addfe9c73da669b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5203082990092578624
+    second: Opponent won_00069_0
+  - first:
+      213: 7911446217961731693
+    second: Opponent won_00069_1
+  - first:
+      213: 2607263181752455363
+    second: Opponent won_00069_2
+  - first:
+      213: 4699620861946136570
+    second: Opponent won_00069_3
+  - first:
+      213: -6620626800013713951
+    second: Opponent won_00069_4
+  - first:
+      213: 2313007817753476579
+    second: Opponent won_00069_5
+  - first:
+      213: 4523462467328469919
+    second: Opponent won_00069_6
+  - first:
+      213: 4396303988252234284
+    second: Opponent won_00069_7
+  - first:
+      213: -5227804535394994917
+    second: Opponent won_00069_8
+  - first:
+      213: -4316622854349882343
+    second: Opponent won_00069_9
+  - first:
+      213: -2028126781233301476
+    second: Opponent won_00069_10
+  - first:
+      213: 9156184591957882463
+    second: Opponent won_00069_11
+  - first:
+      213: 1466284348837094016
+    second: Opponent won_00069_12
+  - first:
+      213: 8665319572218757695
+    second: Opponent won_00069_13
+  - first:
+      213: 5814708561148657346
+    second: Opponent won_00069_14
+  - first:
+      213: -1345592600578400827
+    second: Opponent won_00069_15
+  - first:
+      213: 8534214339955332948
+    second: Opponent won_00069_16
+  - first:
+      213: -6967474564211500030
+    second: Opponent won_00069_17
+  - first:
+      213: -2815929258926082379
+    second: Opponent won_00069_18
+  - first:
+      213: 150987961210009215
+    second: Opponent won_00069_19
+  - first:
+      213: 1183321296645424412
+    second: Opponent won_00069_20
+  - first:
+      213: -4044663970436679601
+    second: Opponent won_00069_21
+  - first:
+      213: 3707585765464947272
+    second: Opponent won_00069_22
+  - first:
+      213: 7192243536969128998
+    second: Opponent won_00069_23
+  - first:
+      213: 1113649825958317562
+    second: Opponent won_00069_24
+  - first:
+      213: 8649023843443932913
+    second: Opponent won_00069_25
+  - first:
+      213: -8502253257558139349
+    second: Opponent won_00069_26
+  - first:
+      213: -499475758028930605
+    second: Opponent won_00069_27
+  - first:
+      213: 8416983530507979413
+    second: Opponent won_00069_28
+  - first:
+      213: -9168570739188209875
+    second: Opponent won_00069_29
+  - first:
+      213: 5694982922112909534
+    second: Opponent won_00069_30
+  - first:
+      213: -2709526608731012752
+    second: Opponent won_00069_31
+  - first:
+      213: 3620898019286256404
+    second: Opponent won_00069_32
+  - first:
+      213: 2442560784951658804
+    second: Opponent won_00069_33
+  - first:
+      213: -8150770537664373909
+    second: Opponent won_00069_34
+  - first:
+      213: 1162524777162042835
+    second: Opponent won_00069_35
+  - first:
+      213: 8592256312473374173
+    second: Opponent won_00069_36
+  - first:
+      213: 1459081160931021012
+    second: Opponent won_00069_37
+  - first:
+      213: -7439980500817463067
+    second: Opponent won_00069_38
+  - first:
+      213: -363991834746351051
+    second: Opponent won_00069_39
+  - first:
+      213: 8438850748482427604
+    second: Opponent won_00069_40
+  - first:
+      213: 2955856500280201759
+    second: Opponent won_00069_41
+  - first:
+      213: -4156844915800985129
+    second: Opponent won_00069_42
+  - first:
+      213: 5061442387638736576
+    second: Opponent won_00069_43
+  - first:
+      213: 136604443222999695
+    second: Opponent won_00069_44
+  - first:
+      213: -1077417828443074322
+    second: Opponent won_00069_45
+  - first:
+      213: 4080704797062633051
+    second: Opponent won_00069_46
+  - first:
+      213: 1010277980913034259
+    second: Opponent won_00069_47
+  - first:
+      213: 6351653178564087988
+    second: Opponent won_00069_48
+  - first:
+      213: -4867046175529470076
+    second: Opponent won_00069_49
+  - first:
+      213: 6882097710737233212
+    second: Opponent won_00069_50
+  - first:
+      213: -1648207539734689687
+    second: Opponent won_00069_51
+  - first:
+      213: 6294049834896257977
+    second: Opponent won_00069_52
+  - first:
+      213: -5300947505165038218
+    second: Opponent won_00069_53
+  - first:
+      213: 7873078581585903455
+    second: Opponent won_00069_54
+  - first:
+      213: 6077330545305830116
+    second: Opponent won_00069_55
+  - first:
+      213: -9098507485671964264
+    second: Opponent won_00069_56
+  - first:
+      213: 6565674632495856226
+    second: Opponent won_00069_57
+  - first:
+      213: -5659092635056223765
+    second: Opponent won_00069_58
+  - first:
+      213: 5541022154486253062
+    second: Opponent won_00069_59
+  - first:
+      213: 6671077078939471319
+    second: Opponent won_00069_60
+  - first:
+      213: -8377605467137667774
+    second: Opponent won_00069_61
+  - first:
+      213: -5928025570770457648
+    second: Opponent won_00069_62
+  - first:
+      213: 6650472276295138871
+    second: Opponent won_00069_63
+  - first:
+      213: -2145152389925000355
+    second: Opponent won_00069_64
+  - first:
+      213: -652426569137729169
+    second: Opponent won_00069_65
+  - first:
+      213: 7097907916923777987
+    second: Opponent won_00069_66
+  - first:
+      213: -5044874601749240973
+    second: Opponent won_00069_67
+  - first:
+      213: -2866467569470990947
+    second: Opponent won_00069_68
+  - first:
+      213: 2887679004347979672
+    second: Opponent won_00069_69
+  - first:
+      213: 1780307328832394615
+    second: Opponent won_00069_70
+  - first:
+      213: 2501525400547762697
+    second: Opponent won_00069_71
+  - first:
+      213: 7511292856489044451
+    second: Opponent won_00069_72
+  - first:
+      213: -3797577596906670030
+    second: Opponent won_00069_73
+  - first:
+      213: -1700148067961090193
+    second: Opponent won_00069_74
+  - first:
+      213: 4522264701461804167
+    second: Opponent won_00069_75
+  - first:
+      213: 876876649508480082
+    second: Opponent won_00069_76
+  - first:
+      213: 8811356618907380790
+    second: Opponent won_00069_77
+  - first:
+      213: -4774703812790283262
+    second: Opponent won_00069_78
+  - first:
+      213: 7110115335308615967
+    second: Opponent won_00069_79
+  - first:
+      213: -6740574698649158818
+    second: Opponent won_00069_80
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -23,7 +266,6 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -41,7 +283,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -55,14 +297,10 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -114,7 +352,1708 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Opponent won_00069_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 918
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c097ae669feac7b0800000000000000
+      internalID: -5203082990092578624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_1
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 927
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6677392b6a1bcd60800000000000000
+      internalID: 7911446217961731693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 893
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c05f48cc0cde2420800000000000000
+      internalID: 2607263181752455363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 912
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af780573648683140800000000000000
+      internalID: 4699620861946136570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 898
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed50c2c00fce14a0800000000000000
+      internalID: -6620626800013713951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 904
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb5ebfa54791020800000000000000
+      internalID: 2313007817753476579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 907
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9becefc52196ce30800000000000000
+      internalID: 4523462467328469919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_7
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 896
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2258684f2fc20d30800000000000000
+      internalID: 4396303988252234284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_8
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 892
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15fa90297b1377b0800000000000000
+      internalID: -5227804535394994917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 882
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c742962664814c0800000000000000
+      internalID: -4316622854349882343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 860
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18f12d1075aad3e0800000000000000
+      internalID: -2028126781233301476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_11
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 869
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56fd85ff5d411f70800000000000000
+      internalID: 9156184591957882463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 850
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0826628b8d9495410800000000000000
+      internalID: 1466284348837094016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_13
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 846
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32c6577d36614870800000000000000
+      internalID: 8665319572218757695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 855
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce30b3f0aef1b050800000000000000
+      internalID: 5814708561148657346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 832
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd5126b8ae735de0800000000000000
+      internalID: -1345592600578400827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_16
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 838
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457151ad9be9f6670800000000000000
+      internalID: 8534214339955332948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 819
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c9a929cce8e4f90800000000000000
+      internalID: -6967474564211500030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 829
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6f419224fcbe8d0800000000000000
+      internalID: -2815929258926082379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 824
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76784130ca681200800000000000000
+      internalID: 150987961210009215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_20
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 813
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1584b523700c6010800000000000000
+      internalID: 1183321296645424412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_21
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 816
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48fc466c877ed7c0800000000000000
+      internalID: -4044663970436679601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_22
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 826
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a35dc2c9df37330800000000000000
+      internalID: 3707585765464947272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 793
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cd427046bffc360800000000000000
+      internalID: 7192243536969128998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_24
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 781
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdcb68cd9a747f00800000000000000
+      internalID: 1113649825958317562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_25
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 794
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fefb527c51870870800000000000000
+      internalID: 8649023843443932913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_26
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 806
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ed6d885bde10a80800000000000000
+      internalID: -8502253257558139349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 791
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d144c4c1718119f0800000000000000
+      internalID: -499475758028930605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_28
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 796
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59acd380de12fc470800000000000000
+      internalID: 8416983530507979413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 780
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2765a86d71b2c080800000000000000
+      internalID: -9168570739188209875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_30
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 768
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c47a5bc4a80f40800000000000000
+      internalID: 5694982922112909534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_31
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 785
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0718e11b7e3d56ad0800000000000000
+      internalID: -2709526608731012752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 771
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b097f6093004230800000000000000
+      internalID: 3620898019286256404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_33
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 774
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439c759b718b5e120800000000000000
+      internalID: 2442560784951658804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_34
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 769
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b9bc07165a2ee80800000000000000
+      internalID: -8150770537664373909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_35
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 778
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd6551202e122010800000000000000
+      internalID: 1162524777162042835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 748
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd451ca793dd3770800000000000000
+      internalID: 8592256312473374173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_37
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 760
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d012c7d592bf3410800000000000000
+      internalID: 1459081160931021012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_38
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 752
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e831f83721efb890800000000000000
+      internalID: -7439980500817463067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_39
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 765
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5321dc4da57d2faf0800000000000000
+      internalID: -363991834746351051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_40
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 770
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da95d77b02dc1570800000000000000
+      internalID: 8438850748482427604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_41
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 761
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f121b3283df450920800000000000000
+      internalID: 2955856500280201759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_42
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 731
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d13b4fa29bef46c0800000000000000
+      internalID: -4156844915800985129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_43
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 738
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6df4ee80bdd3640800000000000000
+      internalID: 5061442387638736576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_44
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 743
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f820c01740155e100800000000000000
+      internalID: 136604443222999695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_45
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 745
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee05af4813e3c01f0800000000000000
+      internalID: -1077417828443074322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_46
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 744
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b569626746391a830800000000000000
+      internalID: 4080704797062633051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_47
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 739
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31468b0987a350e00800000000000000
+      internalID: 1010277980913034259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_48
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 721
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b01bc4d9ea952850800000000000000
+      internalID: 6351653178564087988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_49
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 723
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48774224a47c47cb0800000000000000
+      internalID: -4867046175529470076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_50
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 705
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35950ea76f128f50800000000000000
+      internalID: 6882097710737233212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_51
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 721
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9684ef5a9f36029e0800000000000000
+      internalID: -1648207539734689687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_52
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 706
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f89f3af4f85750800000000000000
+      internalID: 6294049834896257977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_53
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 700
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d05a564504f66b0800000000000000
+      internalID: -5300947505165038218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_54
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 707
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ff920b14bc24d60800000000000000
+      internalID: 7873078581585903455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_55
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 698
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2c59f8ee3075450800000000000000
+      internalID: 6077330545305830116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_56
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 707
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8914a42d5ab9bb180800000000000000
+      internalID: -9098507485671964264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_57
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 665
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a75b4ba46fd1b50800000000000000
+      internalID: 6565674632495856226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_58
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 657
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9c1784b3dd671b0800000000000000
+      internalID: -5659092635056223765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_59
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 661
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60609baba4aa5ec40800000000000000
+      internalID: 5541022154486253062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_60
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 649
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd0077224d649c50800000000000000
+      internalID: 6671077078939471319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_61
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 633
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d83eec634ccbb80800000000000000
+      internalID: -8377605467137667774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_62
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 626
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db6bc2c62c6bbda0800000000000000
+      internalID: -5928025570770457648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_63
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 612
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb721bc493b4c50800000000000000
+      internalID: 6650472276295138871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_64
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 573
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba0715443ea32e0800000000000000
+      internalID: -2145152389925000355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_65
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 572
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61d488fd7d12f6f0800000000000000
+      internalID: -652426569137729169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_66
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 579
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3bca4e4a5d08260800000000000000
+      internalID: 7097907916923777987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_67
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 573
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373a85257410df9b0800000000000000
+      internalID: -5044874601749240973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_68
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 586
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d951189cee24838d0800000000000000
+      internalID: -2866467569470990947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_69
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 550
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897d38f31c8131820800000000000000
+      internalID: 2887679004347979672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 557
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7755416451ce4b810800000000000000
+      internalID: 1780307328832394615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_71
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 540
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9022440291437b220800000000000000
+      internalID: 2501525400547762697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_72
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 535
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e965f27e097d3860800000000000000
+      internalID: 7511292856489044451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_73
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 532
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2387569cb4b4c4bc0800000000000000
+      internalID: -3797577596906670030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_74
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 518
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fcc97075cd768e0800000000000000
+      internalID: -1700148067961090193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_75
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 515
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7843be639cf42ce30800000000000000
+      internalID: 4522264701461804167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_76
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 489
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254a9c5baaa4b2c00800000000000000
+      internalID: 876876649508480082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_77
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 495
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ce24b092a384a70800000000000000
+      internalID: 8811356618907380790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_78
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 491
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2049ee20e28dcbdb0800000000000000
+      internalID: -4774703812790283262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_79
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 458
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11a029f9343ca260800000000000000
+      internalID: 7110115335308615967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent won_00069_80
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 412
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bf701560ba472a0800000000000000
+      internalID: -6740574698649158818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

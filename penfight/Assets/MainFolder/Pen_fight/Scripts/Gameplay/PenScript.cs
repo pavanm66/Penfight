@@ -38,13 +38,11 @@ public class PenScript : MonoBehaviour
     {
         rb.centerOfMass = centreofmass;
         penBG.SetActive(isDragging);
-        print(penBG.activeInHierarchy + " penBG is active and " + isDragging + " is dragging " + this.gameObject.name + " is the name");
     }
 
 
     public IEnumerator StartTurn()
     {
-        print(pen3d.IsinSpawnPos() + " is in spawnpos");
 
         isDragging = false; //initially isdragging is false
         penBG.SetActive(false); //before dragging bg should be false
@@ -168,7 +166,6 @@ public class PenScript : MonoBehaviour
     {
         yield return new WaitUntil(() => GameManager.Instance.AllPensStopped());
 
-        //   yield return StartCoroutine(Gamemanager.Instance.boardManager.Check_pens_to_stop());
         yield return new WaitForSeconds(1);
         turnactive = false;
 
@@ -178,12 +175,8 @@ public class PenScript : MonoBehaviour
     {
         canStrike = false;
         timerActive = false;
-
         penBorder.SetActive(false); //disabling the pen_border//UI
                                     //  Gamemanager.Instance.turnManager.IsTurnActive = timer_active;
-
-
-
     }
 
 
