@@ -176,7 +176,7 @@ public class PenScript : MonoBehaviour
         canStrike = false;
         timerActive = false;
         penBorder.SetActive(false); //disabling the pen_border//UI
-                                    //  Gamemanager.Instance.turnManager.IsTurnActive = timer_active;
+                                   
     }
 
 
