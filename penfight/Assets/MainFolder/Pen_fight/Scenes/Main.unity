@@ -308,7 +308,7 @@ GameObject:
   - component: {fileID: 66483383}
   - component: {fileID: 66483382}
   m_Layer: 5
-  m_Name: Game_over
+  m_Name: GameOver
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1296,7 +1296,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1313,13 +1313,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 424610357}
-  m_LocalRotation: {x: 0.39687768, y: -0.2359628, z: 0.10634304, w: 0.88062525}
-  m_LocalPosition: {x: -7.58, y: -0.99695337, z: -0.0014601839}
+  m_LocalRotation: {x: 0.41629934, y: 0.20349282, z: 0.0029687432, w: 0.88615847}
+  m_LocalPosition: {x: -5.69, y: 0.13, z: 1.24}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 48.52, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 47.443, y: 32.474003, z: 14.969001}
 --- !u!1 &532049137
 GameObject:
   m_ObjectHideFlags: 0
@@ -1908,6 +1908,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48512fb678726414aa7574f259353468, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerOneNameText: {fileID: 536572510785890120}
+  playerTwoNameText: {fileID: 536572511377084523}
   p1Score: {fileID: 536572512458206323}
   p2Score: {fileID: 536572512490072106}
   p1Timer: {fileID: 536572510562451347}
@@ -1917,6 +1919,8 @@ MonoBehaviour:
   winnerName: {fileID: 1517623505}
   gameOverPanel: {fileID: 7308909247968172128}
   scores: 0000000000000000
+  playerOneData: {fileID: 11400000, guid: ffd186c586e927940978770b2f723e4e, type: 2}
+  playerTwoData: {fileID: 11400000, guid: 9d4b4f5f64f7dc44dbc20132a58345b8, type: 2}
 --- !u!4 &1181294851
 Transform:
   m_ObjectHideFlags: 0
@@ -2480,7 +2484,7 @@ GameObject:
   - component: {fileID: 1517623506}
   - component: {fileID: 1517623505}
   m_Layer: 5
-  m_Name: Winner_name
+  m_Name: WinnerName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2803,7 +2807,7 @@ GameObject:
   - component: {fileID: 1866641161}
   - component: {fileID: 1866641160}
   m_Layer: 5
-  m_Name: Winner_text
+  m_Name: WinnerText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3043,7 +3047,7 @@ GameObject:
   - component: {fileID: 2058369127}
   - component: {fileID: 2058369126}
   m_Layer: 5
-  m_Name: Game_over_text
+  m_Name: GameOverText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4840,7 +4844,7 @@ GameObject:
   m_Component:
   - component: {fileID: 536572510944153797}
   m_Layer: 5
-  m_Name: Player_Right
+  m_Name: PlayerRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5110,7 +5114,7 @@ GameObject:
   m_Component:
   - component: {fileID: 536572511004191120}
   m_Layer: 5
-  m_Name: Player_Left
+  m_Name: PlayerLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8135,7 +8139,7 @@ GameObject:
   - component: {fileID: 536572511868051945}
   - component: {fileID: 536572511868051944}
   m_Layer: 5
-  m_Name: Score-coin
+  m_Name: ScoreCoin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10059,7 +10063,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &536572512110756188
 RectTransform:
   m_ObjectHideFlags: 0
@@ -22083,7 +22087,7 @@ GameObject:
   - component: {fileID: 7308909247968172131}
   - component: {fileID: 7308909247968172130}
   m_Layer: 5
-  m_Name: Result_Panel
+  m_Name: ResultPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22446,7 +22450,7 @@ GameObject:
   - component: {fileID: 7308909248245867015}
   - component: {fileID: 7308909248245867014}
   m_Layer: 5
-  m_Name: Panel_Formation
+  m_Name: PanelFormation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
