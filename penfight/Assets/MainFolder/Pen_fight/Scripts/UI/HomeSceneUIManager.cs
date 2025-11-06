@@ -33,10 +33,9 @@ public class HomeSceneUIManager : MonoBehaviour
         quitPanel.SetActive(false);
         settingsPanel.SetActive(false);
         playerDetailsPanel.SetActive(false);
-
     }
-
-     void GetPlayerData()
+ 
+    void GetPlayerData()
     {
         if (playerOneText != null)
         {
